@@ -1,8 +1,8 @@
-#Drum Kit Assignment
+# Drum Kit Assignment
 
 This project is a simple web-based musical instrument that allows users to play notes using their computer's keyboard. As a note is played, the corresponding key and note will be visually indicated on the screen.
 
-##Features:
+## Features:
 
     Play musical notes by pressing keys on the computer's keyboard.
 
